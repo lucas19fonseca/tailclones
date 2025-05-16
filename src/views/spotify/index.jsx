@@ -13,7 +13,7 @@ function App() {
         <div className="flex fixed bg-black w-full px-3 md:px-20 py-4">
           <div className="container flex items-center mx-auto">
             <div>
-              <a href="#">
+              <a href="/">
                 <img src={SpotifyLogo} alt="logo-spotify" className="w-20 md:w-125px" />
               </a>
             </div>

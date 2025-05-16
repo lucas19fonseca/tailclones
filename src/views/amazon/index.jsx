@@ -20,9 +20,6 @@ import LivroSete from "../../assets/livro7.jpg"
 import LivroOito from "../../assets/harry.jpg"
 import Banner from "../../assets/banner_promo.jpg"
 
-
-
-
 function App() {
   return (
     <div className='font-arial'>
@@ -33,7 +30,9 @@ function App() {
               <i class="fas fa-bars text-2xl"></i>
             </div>
             <div class="flex mx-2 py-2 border border-transparent hover:border-white">
-              <img src={AmazonLogo} alt="Amazon" className="h-7" />
+              <a href="/">
+                <img src={AmazonLogo} alt="Amazon" className="h-7" />
+              </a>
               <span class="text-xs pl-1 pt-1">.com.br</span>
             </div>
             <div class="w-full md:w-auto flex-grow md:ml-3 mr-0 pt-1 order-2 md:order-none">

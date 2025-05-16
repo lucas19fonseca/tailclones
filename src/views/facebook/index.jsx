@@ -9,7 +9,9 @@ function App() {
         <div className="md:bg-white md:pt-30 md:pb-40">
           <div className="grid grid-cols-1 md:grid-cols-2 md:max-w-[980px] mx-auto">
             <div className="pt-10">
-              <img src={LogoFace} alt="Facebook" className="w-30 mx-auto md:mx-0 md:w-[290px] md:-mb-4 md:-ml-8" />
+              <a href="/">
+               <img src={LogoFace} alt="Facebook" className="w-30 mx-auto md:mx-0 md:w-[290px] md:-mb-4 md:-ml-8" />
+              </a>
               <p className="hidden md:flex text-2xl leading-8 max-w-[500px] pr-6 text-black">
                 O Facebook ajuda você a se conectar e compartilhar com as pessoas que fazem parte da sua vida.
               </p>

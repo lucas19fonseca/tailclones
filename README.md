@@ -2,6 +2,7 @@
 
 Um projeto que recria interfaces de grandes plataformas como **Facebook**, **Amazon** e **Spotify** utilizando **Tailwind CSS**.  
 O objetivo foi praticar e aprimorar habilidades de estilização moderna, responsividade e componentização com foco em UI/UX.
+**se você quiser voltar pra home,basta clicar nos icones pra voltar.
 
 ## 🔥 Projetos incluídos
 

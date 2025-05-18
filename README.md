@@ -1,7 +1,8 @@
 # TailClones 🚀
 
 Um projeto que recria interfaces de grandes plataformas como **Facebook**, **Amazon** e **Spotify** utilizando **Tailwind CSS**.  
-O objetivo foi praticar e aprimorar habilidades de estilização moderna, responsividade e componentização com foco em UI/UX.
+O objetivo foi praticar e aprimorar habilidades de estilização moderna, responsividade e componentização com foco em UI/UX.</br>
+**se você quiser voltar pra home,basta clicar nos icones.**
 
 ## 🔥 Projetos incluídos
 

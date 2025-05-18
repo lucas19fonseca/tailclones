@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <body>
             <div className="home-container h-screen bg-black">
-                <div className="grid grid-cols-1 md:grid-cols-3 h-full text-white overflow-hidden">
+                <div className="grid grid-cols-1 md:grid-cols-3 h-full overflow-hidden">
                     {/* Spotify */}
                     <div className="bg-main-green flex justify-center items-center transition-transform hover:scale-125  hover:brightness-110  duration-500">
                         <a href="/spotify" className="flex justify-center items-center">
